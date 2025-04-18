@@ -142,7 +142,7 @@ html {
   }
 
   .watercolor-card {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.8) !important;
     border-radius: 1rem;
     padding: 1.5rem;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
@@ -485,7 +485,7 @@ html {
 }
 
 .dark .watercolor-card {
-  background-color: rgba(20, 20, 30, 0.7);
+  background-color: rgba(20, 20, 30, 0.7) !important;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 

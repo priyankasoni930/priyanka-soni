@@ -112,7 +112,7 @@ const ExperienceSection = () => {
                   <div className="md:w-1/2"></div>
                   <div className="md:w-1/2 relative">
                     <Card
-                      className="watercolor-card p-6 ml-8 md:ml-0 md:mx-6 relative"
+                      className="watercolor-card p-6 ml-8 md:ml-0 md:mx-6 relative "
                       style={{
                         borderLeft: `4px solid ${exp.color}`,
                         boxShadow: `0 10px 25px -5px ${exp.color}30`,
