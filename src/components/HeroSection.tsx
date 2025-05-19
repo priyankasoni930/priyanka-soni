@@ -13,7 +13,7 @@ const HeroSection = () => {
   const handleResumeClick = (e) => {
     e.preventDefault();
     window.open(
-      "https://drive.google.com/file/d/1taP9O2yztH5UdYtYjUt76vsP5EfEMO7p/view?usp=sharing",
+      "https://drive.google.com/file/d/1ETVU_DnsOPTY4MWKsCUXzkF7eyklkg85/view?usp=sharing",
       "_blank"
     );
   };
