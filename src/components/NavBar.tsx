@@ -109,7 +109,7 @@ const NavBar = () => {
           </nav>
 
           {/* Mobile Menu Button */}
-          <button
+{/*           <button
             className="md:hidden p-2 rounded-md text-gray-800 dark:text-white hover:bg-gray-100/50 dark:hover:bg-white/10 transition-colors"
             onClick={toggleMenu}
             aria-label="Toggle menu"
@@ -119,7 +119,7 @@ const NavBar = () => {
             ) : (
               <Menu className="w-6 h-6" />
             )}
-          </button>
+          </button> */}
         </div>
       </div>
 
