@@ -35,6 +35,8 @@ const ExperienceSection = () => {
       description: [
         "Implemented design using React and Tailwind CSS ",
         // "Improved application performance by 20% through code optimization",
+        "Collaborated closely with designers and backend developers to build seamless, and responsive interfaces",
+        "Developed core user-facing features using React",
       ],
       icon: <BriefcaseIcon />,
       color: "#9b87f5",
