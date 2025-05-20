@@ -34,7 +34,7 @@ const ExperienceSection = () => {
       period: "April 2025 - Present",
       description: [
         "Implemented design using React and Tailwind CSS ",
-        "Improved application performance by 20% through code optimization",
+        // "Improved application performance by 20% through code optimization",
       ],
       icon: <BriefcaseIcon />,
       color: "#9b87f5",
