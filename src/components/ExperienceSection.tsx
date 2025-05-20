@@ -33,7 +33,7 @@ const ExperienceSection = () => {
       location: "Remote",
       period: "April 2025 - Present",
       description: [
-        "Implemented design using React and Tailwind CSS ",
+        // "Implemented design using React and Tailwind CSS ",
         // "Improved application performance by 20% through code optimization",
         "Collaborated closely with designers and backend developers to build seamless, and responsive interfaces",
         "Developed core user-facing features using React",
